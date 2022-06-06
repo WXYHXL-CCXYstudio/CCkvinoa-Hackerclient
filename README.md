@@ -2,7 +2,7 @@
 CCkivnoa Minecraft Hacker Client
 这是一个全新的Minecraft黑客客户端
 
-当然，改项目完全免费
+当然，该项目完全免费
 供大家参考学习,禁止商业用途
 
 
